@@ -1,4 +1,7 @@
 Please run file in the following order
-1 20171207_Data_Clean.ipynb
+1 20171207_Data_Clean.ipynb  
 2 20171207_EDA.ipynb
 3 20171207_Model.ipynb
+
+
+The CSV files are produced by the 20171207_Data_Clean.ipynb 
